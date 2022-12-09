@@ -1,4 +1,12 @@
-### Skill sneak peek
+## About me
+* Contributor to several Spring projects
+* Committer / PMC of Apache Wicket
+
+## Contact
+* XING: https://www.xing.com/profile/Tobias_Soloschenko
+
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+## Skill sneak peek
 
 ##### OS
 
@@ -32,7 +40,7 @@
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white"/>&nbsp;
 
-##### Backend development
+##### Backend / Cloud development
 
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
