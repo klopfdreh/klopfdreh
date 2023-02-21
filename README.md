@@ -48,3 +48,11 @@
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>&nbsp;
+
+## Recent OpenSource Achievements
+* S3PathMatchingResourcePatternResolver in spring-cloud-aws: https://github.com/awspring/spring-cloud-aws/pull/558
+* Reported CVE in spring-security: https://spring.io/security/cve-2022-31690
+* Context path integration in spring-cloud-data-flow-ui: https://github.com/spring-cloud/spring-cloud-dataflow-ui/pull/1770
+* spring-doc integration in spring-cloud-data-flow: https://github.com/spring-cloud/spring-cloud-dataflow/pull/4855
+
+
