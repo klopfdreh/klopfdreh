@@ -50,12 +50,12 @@
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>&nbsp;
 
 ## Recent OpenSource Achievements
-* Spring Cloud Data Flow UI: Highlight issue fix: https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1920
-* Filter for task description and dslText: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5294
-* S3Resource improved getURL handling: https://github.com/awspring/spring-cloud-aws/pull/795
-* S3PathMatchingResourcePatternResolver in spring-cloud-aws: https://github.com/awspring/spring-cloud-aws/pull/558
-* Reported CVE in spring-security: https://spring.io/security/cve-2022-31690
-* Context path integration in spring-cloud-data-flow-ui: https://github.com/spring-cloud/spring-cloud-dataflow-ui/pull/1770
-* spring-doc integration in spring-cloud-data-flow: https://github.com/spring-cloud/spring-cloud-dataflow/pull/4855
+* Spring Cloud Data Flow UI - griddata-row highlight issue fix: https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1920
+* Spring Cloud Data Flow - Filter for task description and dslText: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5294
+* Spring Cloud AWS - S3Resource improved getURL handling: https://github.com/awspring/spring-cloud-aws/pull/795
+* Spring Cloud AWS - S3PathMatchingResourcePatternResolver in spring-cloud-aws: https://github.com/awspring/spring-cloud-aws/pull/558
+* Spring Security - Reported CVE for OAuth2 client: https://spring.io/security/cve-2022-31690
+* Spring Cloud Data Flow UI - Context path integration: https://github.com/spring-cloud/spring-cloud-dataflow-ui/pull/1770
+* Spring Cloud Data Flow: Springdoc integration: https://github.com/spring-cloud/spring-cloud-dataflow/pull/4855
 
 
