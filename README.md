@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>&nbsp;
 
 ## Recent OpenSource Achievements
-* Spring Cloud Data Flow UI - Option to set Angular OAuth2 login page (backwards compatible with configurable Spring-Security default OAuth2 login): https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1887 (pending)
+* Spring Cloud Data Flow UI - Option to set Angular OAuth2 login page (backwards compatible with Spring-Security default OAuth2 login): https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1887 (pending)
 * Spring Cloud Data Flow UI - griddata-row highlight issue fix: https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1920
 * Spring Cloud Data Flow - Filter for task description and dslText: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5294
 * Spring Cloud AWS - S3Resource improved getURL handling: https://github.com/awspring/spring-cloud-aws/pull/795
