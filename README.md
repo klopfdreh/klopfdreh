@@ -52,6 +52,7 @@
 
 ##### Backend development
 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-FFFFFF?style=for-the-badge&logo=apachemaven&logoColor=red)&nbsp;
 ![JUnit](https://img.shields.io/badge/Junit-25a162?style=for-the-badge&logo=junit5&logoColor=dc524a)&nbsp;
 ![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logoColor=blue)&nbsp;
@@ -59,6 +60,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/spring_boot-1b1f23?style=for-the-badge&logo=springboot)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-f0efe7?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -67,7 +69,9 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-4a5568?style=for-the-badge&logo=jenkins)&nbsp;
 ![Artifactory](https://img.shields.io/badge/artifactory-FFFFFF?style=for-the-badge&logo=jfrog&logoColor=green)&nbsp;
 ![Nexus](https://img.shields.io/badge/Nexus-1ABA73?style=for-the-badge)&nbsp;
-![sonarqube](https://img.shields.io/badge/sonarqube-FFFFFF?style=for-the-badge&logo=sonarqube)
+![sonarqube](https://img.shields.io/badge/sonarqube-FFFFFF?style=for-the-badge&logo=sonarqube)&nbsp;
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 ## Recent OpenSource Achievements
 * Spring Cloud Data Flow UI - Option to set Angular OAuth2 login page (backwards compatible with Spring-Security default OAuth2 login): https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1887 (pending)
