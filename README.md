@@ -74,6 +74,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 ## Recent OpenSource Achievements
+* Spring Cloud Data Flow - Feature UnexpectedTaskExecutionException: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5402 (pending)
 * Spring Cloud Data Flow - Feature Composed Task Runner as annotation build custom configuration: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5368 (pending)
 * Spring Cloud Data Flow - Fix for Composed Task Runner Prometheus RSocket Proxy export: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5362
 * Spring Cloud Data Flow UI - Option to set Angular OAuth2 login page (backwards compatible with Spring-Security default OAuth2 login): https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1887 (pending)
