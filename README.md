@@ -74,7 +74,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 ## Recent OpenSource Achievements
-* Spring Cloud Data Flow - Feature async task execution for cleanup - fix for #5408: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5412 (pending)
+* Spring Cloud Data Flow - Feature async task execution for cleanup - fix for https://github.com/spring-cloud/spring-cloud-dataflow/issues/5408: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5412 (pending)
 * Spring Cloud Data Flow - Feature UnexpectedTaskExecutionException: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5402 (pending)
 * Spring Cloud Data Flow - Feature Composed Task Runner as annotation build custom configuration: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5368 (pending)
 * Spring Cloud Data Flow - Fix for Composed Task Runner Prometheus RSocket Proxy export: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5362
