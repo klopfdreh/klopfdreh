@@ -73,6 +73,10 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
+## Current playgrounds
+
+* ChatGPT and speech to text demo application: https://github.com/klopfdreh/klopfdrehs-ai-tests
+
 ## Recent OpenSource Achievements
 * Spring Cloud Data Flow - Feature async task execution for cleanup - fix for https://github.com/spring-cloud/spring-cloud-dataflow/issues/5408: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5412 (pending)
 * Spring Cloud Data Flow - Feature UnexpectedTaskExecutionException: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5402 (pending)
