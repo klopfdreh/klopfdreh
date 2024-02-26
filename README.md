@@ -78,6 +78,7 @@
 * ChatGPT and speech to text demo application: https://github.com/klopfdreh/klopfdrehs-ai-tests
 
 ## Recent OpenSource Achievements
+* Spring Cloud Data Flow - Performance improvements at job executions - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5695
 * Spring Cloud Data Flow - Feature cleanup task executions older than (n) days - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5442
 * Spring Cloud Data Flow - Feature async task execution for cleanup - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5408 - PR: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5412
 * Spring Cloud Data Flow - Feature UnexpectedTaskExecutionException - PR: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5402
