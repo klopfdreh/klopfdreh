@@ -82,6 +82,7 @@
   * Spring Boot Native with Paketo Buildpacks and Github Actions: https://github.com/klopfdreh/spring-native-buildpack-actions
 
 ## Recent OpenSource Achievements
+* Spring Cloud Data Flow - UI reverse proxy fix - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1994 - PR: https://github.com/spring-cloud/spring-cloud-dataflow-ui/pull/1995
 * Spring Cloud Data Flow - Performance improvements at job executions - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5695
 * Spring Cloud Data Flow - Feature cleanup task executions older than (n) days - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5442
 * Spring Cloud Data Flow - Feature async task execution for cleanup - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5408 - PR: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5412
