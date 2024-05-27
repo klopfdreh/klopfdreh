@@ -8,3 +8,4 @@
 * Spring Cloud Data Flow UI - Context path integration - PR: https://github.com/spring-cloud/spring-cloud-dataflow-ui/pull/1770
 * Spring Cloud Data Flow - Springdoc integration - PR: https://github.com/spring-cloud/spring-cloud-dataflow/pull/4855
 * Spring Boot Admin - OOM fix for HTTP-Traces - ISSUE: https://github.com/codecentric/spring-boot-admin/issues/1040 - PR: https://github.com/codecentric/spring-boot-admin/pull/1116
+* Apache Wicket - There are to many integrations I made to list them here :smile: - just have a look in the source code
