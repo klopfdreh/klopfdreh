@@ -82,6 +82,7 @@
   * Spring Boot Native with Paketo Buildpacks and Github Actions: https://github.com/klopfdreh/spring-native-buildpack-actions
 
 ## Recent OpenSource Achievements
+* AWS SDK JAVA V2 - Adding missing reflect-config.json - ISSUE: https://github.com/aws/aws-sdk-java-v2/issues/5127 - PR: https://github.com/aws/aws-sdk-java-v2/pull/5184
 * Spring Cloud Data Flow - UI reverse proxy fix - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1994 - PR: https://github.com/spring-cloud/spring-cloud-dataflow-ui/pull/1995
 * Spring Cloud Data Flow - Performance improvements at job executions - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5695
 * Spring Cloud Data Flow - Feature cleanup task executions older than (n) days - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5442
