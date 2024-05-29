@@ -94,4 +94,4 @@
 * Spring Cloud Data Flow UI - Option to set Angular OAuth2 login page (backwards compatible with Spring-Security default OAuth2 login) - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1887 (pending)
 
 ## Older OpenSource Archievements
-[Link to older OpenSource Achievements](ACHIEVEMENTS)
+[Link to older OpenSource Achievements](ACHIEVEMENTS.md)
