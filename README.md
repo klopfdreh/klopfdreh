@@ -87,6 +87,7 @@
 * Spring Cloud Data Flow - New Prometheus RSocket Proxy Properties should be forwarded from server to task applications - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5856 - PR: None
 * Spring Cloud Data Flow - Add health check on infrastructure for task applications via status endpoint - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5851 - PR: None, only suggestion
 * Semantic Release Github - Use branch prerelease property for detection - ISSUE: https://github.com/semantic-release/github/issues/864 - PR: https://github.com/semantic-release/github/pull/863
+* Apache Wicket - Configurable transformer factory (CVE fix) - NEWS (german): https://www.news.de/technik/857804183/apache-wicket-gefaehrdet-bsi-meldung-zur-it-sicherheit-schwachstelle-ermoeglicht-codeausfuehrung/1/ - PR: https://github.com/apache/wicket/pull/862
 * AWS CRT JAVA - Testing Spring Boot Native with JNI - ISSUE: https://github.com/awslabs/aws-crt-java/issues/780 - TESTS: https://github.com/awslabs/aws-crt-java/pull/749
 * AWS SDK JAVA V2 - Adding missing reflect-config.json - ISSUE: https://github.com/aws/aws-sdk-java-v2/issues/5127 - PR: https://github.com/aws/aws-sdk-java-v2/pull/5184
 * Spring Cloud Data Flow - UI reverse proxy fix - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1994 - PR: https://github.com/spring-cloud/spring-cloud-dataflow-ui/pull/1995
