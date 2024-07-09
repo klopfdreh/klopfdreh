@@ -82,6 +82,10 @@
   * Spring Boot Native with Paketo Buildpacks and Github Actions: https://github.com/klopfdreh/spring-native-buildpack-actions
 
 ## Recent OpenSource Achievements
+* Spring Cloud Data Flow - Use single sequence for task and job ids of different schema versions - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5853 - PR: None, only suggestion 
+* Spring Cloud Data Flow - Task table prefix is not resolved correctly in CTR - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5854 - PR: Fix inside issue description
+* Spring Cloud Data Flow - New Prometheus RSocket Proxy Properties should be forwarded from server to task applications - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5856 - PR: None
+* Spring Cloud Data Flow - Add health check on infrastructure for task applications via status endpoint - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5851 - PR: None, only suggestion
 * Semantic Release Github - Use branch prerelease property for detection - ISSUE: https://github.com/semantic-release/github/issues/864 - PR: https://github.com/semantic-release/github/pull/863
 * AWS CRT JAVA - Testing Spring Boot Native with JNI - ISSUE: https://github.com/awslabs/aws-crt-java/issues/780 - TESTS: https://github.com/awslabs/aws-crt-java/pull/749
 * AWS SDK JAVA V2 - Adding missing reflect-config.json - ISSUE: https://github.com/aws/aws-sdk-java-v2/issues/5127 - PR: https://github.com/aws/aws-sdk-java-v2/pull/5184
