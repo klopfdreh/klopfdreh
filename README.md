@@ -82,6 +82,7 @@
   * Spring Boot Native with Paketo Buildpacks and Github Actions: https://github.com/klopfdreh/spring-native-buildpack-actions
 
 ## Recent OpenSource Achievements
+* Semantic Release Github - Use branch prerelease property for detection - ISSUE: https://github.com/semantic-release/github/issues/864 - PR: https://github.com/semantic-release/github/pull/863
 * AWS CRT JAVA - Testing Spring Boot Native with JNI - ISSUE: https://github.com/awslabs/aws-crt-java/issues/780 - TESTS: https://github.com/awslabs/aws-crt-java/pull/749
 * AWS SDK JAVA V2 - Adding missing reflect-config.json - ISSUE: https://github.com/aws/aws-sdk-java-v2/issues/5127 - PR: https://github.com/aws/aws-sdk-java-v2/pull/5184
 * Spring Cloud Data Flow - UI reverse proxy fix - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1994 - PR: https://github.com/spring-cloud/spring-cloud-dataflow-ui/pull/1995
