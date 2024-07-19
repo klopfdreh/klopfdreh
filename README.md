@@ -80,6 +80,7 @@
   * Spring Boot Native with Paketo Buildpacks without Parent: https://gist.github.com/klopfdreh/efe897684ea54524883811a19e3d5d62
   * Spring Boot Native with Liberica Native Image Toolkit: https://github.com/klopfdreh/spring-native-nik
   * Spring Boot Native with Paketo Buildpacks and Github Actions: https://github.com/klopfdreh/spring-native-buildpack-actions
+  * Spring Boot Native with Spring Cloud Config: https://github.com/klopfdreh/native-cloud-config-test
 
 ## Recent OpenSource Achievements
 * Spring Cloud Data Flow - Use single sequence for task and job ids of different schema versions - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5853 - PR: None, only suggestion 
