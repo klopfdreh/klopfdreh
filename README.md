@@ -83,6 +83,8 @@
   * Spring Boot Native with Spring Cloud Config: https://github.com/klopfdreh/native-cloud-config-test
 
 ## Recent OpenSource Achievements
+* Snappy Java - Add GraalVM support - ISSUE: https://github.com/xerial/snappy-java/issues/429 - PR: https://github.com/xerial/snappy-java/pull/590
+* Spotbugs - AOP / AOT analysis failure: ISSUE: https://github.com/spotbugs/spotbugs/issues/3059 - PR: None, only showcase project
 * Spring Cloud Data Flow - Use single sequence for task and job ids of different schema versions - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5853 - PR: None, only suggestion 
 * Spring Cloud Data Flow - Task table prefix is not resolved correctly in CTR - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5854 - PR: Fix inside issue description
 * Spring Cloud Data Flow - New Prometheus RSocket Proxy Properties should be forwarded from server to task applications - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5856 - PR: None
