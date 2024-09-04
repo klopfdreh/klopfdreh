@@ -84,6 +84,7 @@
 
 ## Recent OpenSource Achievements
 * Joda Time - Copy native-image resources correctly - ISSUE: https://github.com/JodaOrg/joda-time/issues/783 - PR: https://github.com/JodaOrg/joda-time/pull/784
+* GitHub API - native-image support: ISSUE: https://github.com/hub4j/github-api/issues/1908 - PR: https://github.com/hub4j/github-api/pull/1914
 * AWS SDK V2 JAVA - Added missing reflect-config.json - ISSUE: https://github.com/aws/aws-sdk-java-v2/issues/5530 - PR: https://github.com/aws/aws-sdk-java-v2/pull/5531
 * Micrometer Prometheus RSocket Proxy Client - Timeout for connection and data push - ISSUE: https://github.com/micrometer-metrics/prometheus-rsocket-proxy/issues/86 - PR: https://github.com/micrometer-metrics/prometheus-rsocket-proxy/pull/87
 * Snappy Java - Add GraalVM support - ISSUE: https://github.com/xerial/snappy-java/issues/429 - PR: https://github.com/xerial/snappy-java/pull/590
