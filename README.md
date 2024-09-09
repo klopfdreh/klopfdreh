@@ -81,6 +81,8 @@
   * Spring Boot Native with Liberica Native Image Toolkit: https://github.com/klopfdreh/spring-native-nik
   * Spring Boot Native with Paketo Buildpacks and Github Actions: https://github.com/klopfdreh/spring-native-buildpack-actions
   * Spring Boot Native with Spring Cloud Config: https://github.com/klopfdreh/native-cloud-config-test
+  * Spring Boot Native with Prometheus RSocket Proxy: https://github.com/klopfdreh/prometheus-rsocket-native-test
+  * Spring Boot AOT with Spotbugs: https://github.com/klopfdreh/spotbugs-aot-test
 
 ## Recent OpenSource Achievements
 * Joda Time - Copy native-image resources correctly - ISSUE: https://github.com/JodaOrg/joda-time/issues/783 - PR: https://github.com/JodaOrg/joda-time/pull/784
