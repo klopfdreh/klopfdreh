@@ -85,6 +85,8 @@
   * Spring Boot AOT with Spotbugs: https://github.com/klopfdreh/spotbugs-aot-test
 
 ## Recent OpenSource Achievements
+* Spring Retry - Added aot hints: ISSUE: https://github.com/spring-projects/spring-retry/issues/470 - PR: https://github.com/spring-projects/spring-retry/pull/471
+* Spring Cloud Config Client - Added aot hints - ISSUE: https://github.com/spring-cloud/spring-cloud-config/issues/2439 - PR: https://github.com/spring-cloud/spring-cloud-config/pull/2456
 * Joda Time - Copy native-image resources correctly - ISSUE: https://github.com/JodaOrg/joda-time/issues/783 - PR: https://github.com/JodaOrg/joda-time/pull/784
 * GitHub API - native-image support: ISSUE: https://github.com/hub4j/github-api/issues/1908 - PR: https://github.com/hub4j/github-api/pull/1914
 * AWS SDK V2 JAVA - Added missing reflect-config.json - ISSUE: https://github.com/aws/aws-sdk-java-v2/issues/5530 - PR: https://github.com/aws/aws-sdk-java-v2/pull/5531
