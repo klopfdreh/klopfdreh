@@ -84,7 +84,8 @@
   * Spring Boot Native with Prometheus RSocket Proxy: https://github.com/klopfdreh/prometheus-rsocket-native-test
   * Spring Boot AOT with Spotbugs: https://github.com/klopfdreh/spotbugs-aot-test
 
-## Recent OpenSource Achievements
+## Recent (OpenSource-) Achievements
+* AXA Konzern AG Becomes First German Cloud-Native Insurance Platform Using msg.Life Factory on AWS - NEWS (english): https://aws.amazon.com/de/partners/success/axa-msg/
 * Spring Retry - Added aot hints: ISSUE: https://github.com/spring-projects/spring-retry/issues/470 - PR: https://github.com/spring-projects/spring-retry/pull/471
 * Spring Cloud Config Client - Added aot hints - ISSUE: https://github.com/spring-cloud/spring-cloud-config/issues/2439 - PR: https://github.com/spring-cloud/spring-cloud-config/pull/2456
 * Joda Time - Copy native-image resources correctly - ISSUE: https://github.com/JodaOrg/joda-time/issues/783 - PR: https://github.com/JodaOrg/joda-time/pull/784
