@@ -103,7 +103,7 @@
 * Apache Wicket - Configurable transformer factory (CVE fix) - PR: https://github.com/apache/wicket/pull/862
 * AWS CRT JAVA - Testing Spring Boot Native with JNI - ISSUE: https://github.com/awslabs/aws-crt-java/issues/780 - TESTS: https://github.com/awslabs/aws-crt-java/pull/749
 * AWS SDK JAVA V2 - Adding missing reflect-config.json - ISSUE: https://github.com/aws/aws-sdk-java-v2/issues/5127 - PR: https://github.com/aws/aws-sdk-java-v2/pull/5184
-* Spring Cloud Data Flow - UI reverse proxy fix - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1994 - PR: https://github.com/spring-cloud/spring-cloud-dataflow-ui/pull/1995
+* Spring Cloud Data Flow - UI reverse proxy fix - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1994 / https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/2015 - PR: https://github.com/spring-cloud/spring-cloud-dataflow-ui/pull/1995 / https://github.com/spring-cloud/spring-cloud-dataflow-ui/pull/2016
 * Spring Cloud Data Flow - Performance improvements at job executions - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5695
 * Spring Cloud Data Flow - Feature cleanup task executions older than (n) days - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5442
 * Spring Cloud Data Flow - Feature async task execution for cleanup - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5408 - PR: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5412
