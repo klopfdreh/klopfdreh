@@ -1,4 +1,11 @@
 ## Older OpenSource Archievements
+* Spring Cloud Data Flow - Performance improvements at job executions - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5695
+* Spring Cloud Data Flow - Feature cleanup task executions older than (n) days - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5442
+* Spring Cloud Data Flow - Feature async task execution for cleanup - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5408 - PR: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5412
+* Spring Cloud Data Flow - Feature UnexpectedTaskExecutionException - PR: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5402
+* Spring Cloud Data Flow - Feature Composed Task Runner as annotation build custom configuration - PR: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5368 (pending)
+* Spring Cloud Data Flow - Fix for Composed Task Runner Prometheus RSocket Proxy export - PR: https://github.com/spring-cloud/spring-cloud-dataflow/pull/5362
+* Spring Cloud Data Flow UI - Option to set Angular OAuth2 login page (backwards compatible with Spring-Security default OAuth2 login) - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1887 (pending)
 * Spring Cloud Data Flow UI - griddata-row highlight issue fix - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1920
 * Spring Cloud Data Flow - Filter for task description and dslText - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5294
 * Spring Cloud AWS - S3Resource improved getURL handling - ISSUE: https://github.com/awspring/spring-cloud-aws/pull/795 - RELEASE: https://github.com/awspring/spring-cloud-aws/releases/tag/v3.0.1
