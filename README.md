@@ -93,6 +93,7 @@
 * GitHub API - native-image support: ISSUE: https://github.com/hub4j/github-api/issues/1908 - PR: https://github.com/hub4j/github-api/pull/1914
 * AWS SDK V2 JAVA - Added missing reflect-config.json - ISSUE: https://github.com/aws/aws-sdk-java-v2/issues/5530 - PR: https://github.com/aws/aws-sdk-java-v2/pull/5531
 * Micrometer Prometheus RSocket Proxy Client - Timeout for connection and data push - ISSUE: https://github.com/micrometer-metrics/prometheus-rsocket-proxy/issues/86 - PR: https://github.com/micrometer-metrics/prometheus-rsocket-proxy/pull/87
+* Spring Boot - Profile activation with Spring Cloud Config Server - ISSUE: https://github.com/spring-projects/spring-boot/issues/41562 - PR: None
 * Snappy Java - Add GraalVM support - ISSUE: https://github.com/xerial/snappy-java/issues/429 - PR: https://github.com/xerial/snappy-java/pull/590
 * Spotbugs - AOP / AOT analysis failure: ISSUE: https://github.com/spotbugs/spotbugs/issues/3059 - PR: None, only showcase project
 * Spring Cloud Data Flow - Use single sequence for task and job ids of different schema versions - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5853 - PR: None, only suggestion 
