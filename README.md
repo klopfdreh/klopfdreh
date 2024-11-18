@@ -85,7 +85,10 @@
   * Spring Boot AOT with Spotbugs: https://github.com/klopfdreh/spotbugs-aot-test
 
 ## Recent (OpenSource-) Achievements
-* Spring Cloud Config Client - Use withLogger of RetryTemplateBuilder to avoid reflections ISSUE: https://github.com/spring-cloud/spring-cloud-config/issues/2544 - PR: https://github.com/spring-cloud/spring-cloud-config/pull/2545
+* Spring Cloud Deployer - Feature: Possibility to use terminationGracePeriodSeconds for Pods / Jobs for kubernetes - ISSUE: https://github.com/spring-cloud/spring-cloud-deployer/issues/495 - PR: None
+* jgit - GraalVM support for native images - ISSUE: https://github.com/eclipse-jgit/jgit/issues/103 - PR: None, only suggestion how to fix.
+* native-build-tools - The configuration skip should affect all goals - ISSUE: https://github.com/graalvm/native-build-tools/issues/628 - PR: None, only suggestion how to fix
+* Spring Cloud Config Client - Use withLogger of RetryTemplateBuilder to avoid reflections - ISSUE: https://github.com/spring-cloud/spring-cloud-config/issues/2544 - PR: https://github.com/spring-cloud/spring-cloud-config/pull/2545
 * AXA Konzern AG Becomes First German Cloud-Native Insurance Platform Using msg.Life Factory on AWS - NEWS (english): https://aws.amazon.com/de/partners/success/axa-msg/
 * Spring Retry - Added setter for logger - ISSUE: https://github.com/spring-projects/spring-retry/issues/470 - PR: https://github.com/spring-projects/spring-retry/pull/471
 * Spring Cloud Config Client - Added aot hints - ISSUE: https://github.com/spring-cloud/spring-cloud-config/issues/2439 - PR: https://github.com/spring-cloud/spring-cloud-config/pull/2456
