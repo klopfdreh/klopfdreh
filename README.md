@@ -73,6 +73,10 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
+## Gists
+
+https://gist.github.com/klopfdreh
+
 ## Current playgrounds
 
 * ChatGPT and speech to text demo application: https://github.com/klopfdreh/klopfdrehs-ai-tests
@@ -93,7 +97,7 @@
 * Spring Retry - Added setter for logger - ISSUE: https://github.com/spring-projects/spring-retry/issues/470 - PR: https://github.com/spring-projects/spring-retry/pull/471
 * Spring Cloud Config Client - Added aot hints - ISSUE: https://github.com/spring-cloud/spring-cloud-config/issues/2439 - PR: https://github.com/spring-cloud/spring-cloud-config/pull/2456
 * Joda Time - Copy native-image resources correctly - ISSUE: https://github.com/JodaOrg/joda-time/issues/783 - PR: https://github.com/JodaOrg/joda-time/pull/784
-* GitHub API - native-image support: ISSUE: https://github.com/hub4j/github-api/issues/1908 - PR: https://github.com/hub4j/github-api/pull/1914
+* GitHub API - native-image support - ISSUE: https://github.com/hub4j/github-api/issues/1908 - PR: https://github.com/hub4j/github-api/pull/1914
 * AWS SDK V2 JAVA - Added missing reflect-config.json - ISSUE: https://github.com/aws/aws-sdk-java-v2/issues/5530 - PR: https://github.com/aws/aws-sdk-java-v2/pull/5531
 * Micrometer Prometheus RSocket Proxy Client - Timeout for connection and data push - ISSUE: https://github.com/micrometer-metrics/prometheus-rsocket-proxy/issues/86 - PR: https://github.com/micrometer-metrics/prometheus-rsocket-proxy/pull/87
 * Spring Boot - Profile activation with Spring Cloud Config Server - ISSUE: https://github.com/spring-projects/spring-boot/issues/41562 - PR: None
