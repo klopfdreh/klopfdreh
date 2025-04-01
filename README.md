@@ -98,6 +98,7 @@ https://gist.github.com/klopfdreh
 * Spring Cloud Config Client - Added aot hints - ISSUE: https://github.com/spring-cloud/spring-cloud-config/issues/2439 - PR: https://github.com/spring-cloud/spring-cloud-config/pull/2456
 * Joda Time - Copy native-image resources correctly - ISSUE: https://github.com/JodaOrg/joda-time/issues/783 - PR: https://github.com/JodaOrg/joda-time/pull/784
 * GitHub API - native-image support - ISSUE: https://github.com/hub4j/github-api/issues/1908 - PR: https://github.com/hub4j/github-api/pull/1914
+* Spring Boot - Spring Boot native build process-aot does not merge hint configuration - ISSUE: https://github.com/spring-projects/spring-boot/issues/42515 - PR: None, only suggestion
 * AWS SDK V2 JAVA - Added missing reflect-config.json - ISSUE: https://github.com/aws/aws-sdk-java-v2/issues/5530 - PR: https://github.com/aws/aws-sdk-java-v2/pull/5531
 * Micrometer Prometheus RSocket Proxy Client - Timeout for connection and data push - ISSUE: https://github.com/micrometer-metrics/prometheus-rsocket-proxy/issues/86 - PR: https://github.com/micrometer-metrics/prometheus-rsocket-proxy/pull/87
 * Spring Boot - Profile activation with Spring Cloud Config Server - ISSUE: https://github.com/spring-projects/spring-boot/issues/41562 - PR: None
