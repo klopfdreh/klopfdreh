@@ -88,7 +88,8 @@ https://gist.github.com/klopfdreh
   * Spring Boot Native with Prometheus RSocket Proxy: https://github.com/klopfdreh/prometheus-rsocket-native-test
   * Spring Boot AOT with Spotbugs: https://github.com/klopfdreh/spotbugs-aot-test
 
-## Recent (OpenSource-) Achievements
+## Recent (OpenSource-) Achievements or Issues
+* Lombok - Fix useless @SuppressFBWarnings annotations due to breaking changes of Spotbugs 3.9.2 - ISSUE: https://github.com/projectlombok/lombok/issues/3867 - PR: None
 * Spring Cloud Deployer - Feature: Possibility to use terminationGracePeriodSeconds for Pods / Jobs for kubernetes - ISSUE: https://github.com/spring-cloud/spring-cloud-deployer/issues/495 - PR: None
 * jgit - GraalVM support for native images - ISSUE: https://github.com/eclipse-jgit/jgit/issues/103 - PR: None, only suggestion how to fix.
 * native-build-tools - The configuration skip should affect all goals - ISSUE: https://github.com/graalvm/native-build-tools/issues/628 - PR: None, only suggestion how to fix
