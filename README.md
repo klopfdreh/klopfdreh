@@ -89,6 +89,7 @@ https://gist.github.com/klopfdreh
   * Spring Boot AOT with Spotbugs: https://github.com/klopfdreh/spotbugs-aot-test
 
 ## Recent (OpenSource-) Achievements or Issues
+* Spring Boot - Spring 3.5.1-3 problem with importing properties from azure key vault - ISSUE: [https://github.com/projectlombok/lombok/issues/3867](https://github.com/spring-projects/spring-boot/issues/46185) - PR: None, only test of fix
 * Lombok - Fix useless @SuppressFBWarnings annotations due to breaking changes of Spotbugs 3.9.2 - ISSUE: https://github.com/projectlombok/lombok/issues/3867 - PR: None
 * Spring Cloud Deployer - Feature: Possibility to use terminationGracePeriodSeconds for Pods / Jobs for kubernetes - ISSUE: https://github.com/spring-cloud/spring-cloud-deployer/issues/495 - PR: None
 * jgit - GraalVM support for native images - ISSUE: https://github.com/eclipse-jgit/jgit/issues/103 - PR: None, only suggestion how to fix.
