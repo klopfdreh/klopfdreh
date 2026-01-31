@@ -89,6 +89,7 @@ https://gist.github.com/klopfdreh
   * Spring Boot AOT with Spotbugs: https://github.com/klopfdreh/spotbugs-aot-test
 
 ## Recent (OpenSource-) Achievements or Issues
+* fabric8 Kubernetes Client - Update okhttp3 from version 4.x.x to 5.x.x. - ISSUE: https://github.com/fabric8io/kubernetes-client/issues/7421 - PR: https://github.com/fabric8io/kubernetes-client/pull/7422
 * Spring Boot - Spring 3.5.1-3 problem with importing properties from azure key vault - ISSUE: https://github.com/spring-projects/spring-boot/issues/46185 - PR: None, only test of fix
 * Lombok - Fix useless @SuppressFBWarnings annotations due to breaking changes of Spotbugs 3.9.2 - ISSUE: https://github.com/projectlombok/lombok/issues/3867 - PR: None
 * Spring Cloud Deployer - Feature: Possibility to use terminationGracePeriodSeconds for Pods / Jobs for kubernetes - ISSUE: https://github.com/spring-cloud/spring-cloud-deployer/issues/495 - PR: None
@@ -106,15 +107,6 @@ https://gist.github.com/klopfdreh
 * Spring Boot - Profile activation with Spring Cloud Config Server - ISSUE: https://github.com/spring-projects/spring-boot/issues/41562 - PR: None
 * Snappy Java - Add GraalVM support - ISSUE: https://github.com/xerial/snappy-java/issues/429 - PR: https://github.com/xerial/snappy-java/pull/590
 * Spotbugs - AOP / AOT analysis failure: ISSUE: https://github.com/spotbugs/spotbugs/issues/3059 - PR: None, only showcase project
-* Spring Cloud Data Flow - Use single sequence for task and job ids of different schema versions - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5853 - PR: None, only suggestion 
-* Spring Cloud Data Flow - Task table prefix is not resolved correctly in CTR - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5854 - PR: Fix inside issue description
-* Spring Cloud Data Flow - New Prometheus RSocket Proxy Properties should be forwarded from server to task applications - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5856 - PR: None
-* Spring Cloud Data Flow - Add health check on infrastructure for task applications via status endpoint - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow/issues/5851 - PR: None, only suggestion
-* Semantic Release Github - Use branch prerelease property for detection - ISSUE: https://github.com/semantic-release/github/issues/864 - PR: https://github.com/semantic-release/github/pull/863
-* Apache Wicket - Configurable transformer factory (CVE fix) - PR: https://github.com/apache/wicket/pull/862
-* AWS CRT JAVA - Testing Spring Boot Native with JNI - ISSUE: https://github.com/awslabs/aws-crt-java/issues/780 - TESTS: https://github.com/awslabs/aws-crt-java/pull/749
-* AWS SDK JAVA V2 - Adding missing reflect-config.json - ISSUE: https://github.com/aws/aws-sdk-java-v2/issues/5127 - PR: https://github.com/aws/aws-sdk-java-v2/pull/5184
-* Spring Cloud Data Flow - UI reverse proxy fix - ISSUE: https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/1994 / https://github.com/spring-cloud/spring-cloud-dataflow-ui/issues/2015 - PR: https://github.com/spring-cloud/spring-cloud-dataflow-ui/pull/1995 / https://github.com/spring-cloud/spring-cloud-dataflow-ui/pull/2016
 
 ## Older OpenSource Archievements
 [Link to older OpenSource Achievements](ACHIEVEMENTS.md)
