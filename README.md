@@ -86,6 +86,8 @@ https://gist.github.com/klopfdreh
 
 * ChatGPT and speech to text demo application: https://github.com/klopfdreh/klopfdrehs-ai-tests
 * Spring Boot Native
+  * Spring Boot Native with Netty: https://github.com/klopfdreh/netty-native-test
+  * Spring Boot Native with OpenFeign: https://github.com/klopfdreh/open-feign-native
   * Spring Boot Native with Paketo Buildpacks without Parent: https://gist.github.com/klopfdreh/efe897684ea54524883811a19e3d5d62
   * Spring Boot Native with Liberica Native Image Toolkit: https://github.com/klopfdreh/spring-native-nik
   * Spring Boot Native with Paketo Buildpacks and Github Actions: https://github.com/klopfdreh/spring-native-buildpack-actions
