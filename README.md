@@ -54,15 +54,15 @@
 
 ##### Backend development
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring)&nbsp;
+![SpringBoot](https://img.shields.io/badge/spring_boot-1b1f23?style=for-the-badge&logo=springboot)&nbsp;
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/Apache_Maven-FFFFFF?style=for-the-badge&logo=apachemaven&logoColor=red)&nbsp;
 ![JUnit](https://img.shields.io/badge/Junit-25a162?style=for-the-badge&logo=junit5&logoColor=dc524a)&nbsp;
 ![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logoColor=blue)&nbsp;
 ![Cucumber](https://img.shields.io/badge/cucumber-FFFFFF?style=for-the-badge&logo=cucumber&logoColor=blue)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring)&nbsp;
-![SpringBoot](https://img.shields.io/badge/spring_boot-1b1f23?style=for-the-badge&logo=springboot)&nbsp;
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-f0efe7?style=for-the-badge&logo=git)&nbsp;
@@ -70,7 +70,7 @@
 ![GitHubActions](https://img.shields.io/badge/github_actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/jenkins-4a5568?style=for-the-badge&logo=jenkins)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white)&nbsp;
+![Tekton](https://img.shields.io/badge/-Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white)&nbsp;
 ![Artifactory](https://img.shields.io/badge/artifactory-FFFFFF?style=for-the-badge&logo=jfrog&logoColor=green)&nbsp;
 ![Nexus](https://img.shields.io/badge/Nexus-1ABA73?style=for-the-badge)&nbsp;
 ![sonarqube](https://img.shields.io/badge/sonarqube-FFFFFF?style=for-the-badge&logo=sonarqube)&nbsp;
