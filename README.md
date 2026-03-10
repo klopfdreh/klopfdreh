@@ -97,6 +97,7 @@ https://gist.github.com/klopfdreh
   * Spring Boot AOT with Spotbugs: https://github.com/klopfdreh/spotbugs-aot-test
 
 ## Recent (OpenSource-) Achievements or Issues
+* fabric8 Kubernetes Client - BOM import for okhttp client - ISSUE: https://github.com/fabric8io/kubernetes-client/issues/7522 - PR: https://github.com/fabric8io/kubernetes-client/pull/7523
 * Prometheus RSocket Proxy - Prometheus RSocket Client should support GraalVM native images - ISSUE: https://github.com/micrometer-metrics/prometheus-rsocket-proxy/issues/110 - PR: https://github.com/micrometer-metrics/prometheus-rsocket-proxy/pull/109 (Rejected with the hint: "You can hack the creation of the bean with that `return null` in your own code though.")
 * Spring Cloud Config - Support for GitHub Apps with username / password - ISSUE: https://github.com/spring-cloud/spring-cloud-config/issues/3188 - PR: https://github.com/spring-cloud/spring-cloud-config/pull/3189
 * fabric8 Kubernetes Client - Update okhttp3 from version 4.x.x to 5.x.x. - ISSUE: https://github.com/fabric8io/kubernetes-client/issues/7421 - PR: https://github.com/fabric8io/kubernetes-client/pull/7422
