@@ -98,7 +98,7 @@ https://gist.github.com/klopfdreh
 
 ## Recent (OpenSource-) Achievements or Issues
 * GraalVM native-build-tools native-maven-plugin - native-maven-plugin requires layer configuration - ISSUE: https://github.com/graalvm/native-build-tools/issues/1031 - PR: https://github.com/graalvm/native-build-tools/pull/1032 (suggestion, follow up PR was creaded)
-* Jetty dns name resolver timeout exception reported - ISSUE: https://github.com/netty/netty/issues/16843 PR: None, but in a follow-up PR the default DNS resolving has been changed
+* Netty dns name resolver timeout exception reported - ISSUE: https://github.com/netty/netty/issues/16843 PR: None, but in a follow-up PR the default DNS resolving has been changed
 * fabric8 Kubernetes Client - BOM import for okhttp client - ISSUE: https://github.com/fabric8io/kubernetes-client/issues/7522 - PR: https://github.com/fabric8io/kubernetes-client/pull/7523
 * Prometheus RSocket Proxy - Prometheus RSocket Client should support GraalVM native images - ISSUE: https://github.com/micrometer-metrics/prometheus-rsocket-proxy/issues/110 - PR: https://github.com/micrometer-metrics/prometheus-rsocket-proxy/pull/109 (Rejected with the hint: "You can hack the creation of the bean with that `return null` in your own code though.")
 * Spring Cloud Config - Support for GitHub Apps with username / password - ISSUE: https://github.com/spring-cloud/spring-cloud-config/issues/3188 - PR: https://github.com/spring-cloud/spring-cloud-config/pull/3189
