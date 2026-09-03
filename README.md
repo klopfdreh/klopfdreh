@@ -97,7 +97,7 @@ https://gist.github.com/klopfdreh
   * Spring Boot AOT with Spotbugs: https://github.com/klopfdreh/spotbugs-aot-test
 
 ## Recent (OpenSource-) Achievements or Issues
-* GraalVM native-build-tools native-maven-plugin - native-maven-plugin requires layer configuration - ISSUE: https://github.com/graalvm/native-build-tools/issues/1031 - PR: https://github.com/graalvm/native-build-tools/pull/1032 (suggestion, follow up PR was creaded)
+* GraalVM native-build-tools native-maven-plugin - native-maven-plugin requires layer configuration - ISSUE: https://github.com/graalvm/native-build-tools/issues/1031 - PR: https://github.com/graalvm/native-build-tools/pull/1032 (suggestion, follow up PR was created)
 * Netty dns name resolver timeout exception reported - ISSUE: https://github.com/netty/netty/issues/16843 PR: None, but in a follow-up PR the default DNS resolving has been changed
 * Spring Data JPA Ahead-of-Time optimizations fail when a Hibernate entity uses java.sql.Clob - ISSUE: https://github.com/spring-projects/spring-data-jpa/issues/4228 - PR: None, but in a follow-up PR AOT changes have been made
 * fabric8 Kubernetes Client - BOM import for okhttp client - ISSUE: https://github.com/fabric8io/kubernetes-client/issues/7522 - PR: https://github.com/fabric8io/kubernetes-client/pull/7523
