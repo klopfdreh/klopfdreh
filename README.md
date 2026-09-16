@@ -83,19 +83,6 @@
 
 https://gist.github.com/klopfdreh
 
-## Current playgrounds
-
-* ChatGPT and speech to text demo application: https://github.com/klopfdreh/klopfdrehs-ai-tests
-* Spring Boot Native
-  * Spring Boot Native with Netty: https://github.com/klopfdreh/netty-native-test
-  * Spring Boot Native with OpenFeign: https://github.com/klopfdreh/open-feign-native
-  * Spring Boot Native with Paketo Buildpacks without Parent: https://gist.github.com/klopfdreh/efe897684ea54524883811a19e3d5d62
-  * Spring Boot Native with Liberica Native Image Toolkit: https://github.com/klopfdreh/spring-native-nik
-  * Spring Boot Native with Paketo Buildpacks and Github Actions: https://github.com/klopfdreh/spring-native-buildpack-actions
-  * Spring Boot Native with Spring Cloud Config: https://github.com/klopfdreh/native-cloud-config-test
-  * Spring Boot Native with Prometheus RSocket Proxy: https://github.com/klopfdreh/prometheus-rsocket-native-test
-  * Spring Boot AOT with Spotbugs: https://github.com/klopfdreh/spotbugs-aot-test
-
 ## Recent (OpenSource-) Achievements or Issues
 * GraalVM native-build-tools native-maven-plugin - native-maven-plugin requires layer configuration - ISSUE: https://github.com/graalvm/native-build-tools/issues/1031 - PR: https://github.com/graalvm/native-build-tools/pull/1032 (suggestion, follow up PR was created)
 * Netty dns name resolver timeout exception reported - ISSUE: https://github.com/netty/netty/issues/16843 PR: None, but in a follow-up PR the default DNS resolving has been changed
