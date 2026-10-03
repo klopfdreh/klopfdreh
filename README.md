@@ -83,6 +83,9 @@
 
 https://gist.github.com/klopfdreh
 
+## Showcase
+* Apache Wicket 10 with Spring Boot 4 native compiled with GraalVM 25: https://github.com/klopfdreh/wicket-spring-boot-native-demo
+
 ## Recent (OpenSource-) Achievements or Issues
 * maven-pmd-plugin - Update plugins in integration tests - ISSUE: None - PR: https://github.com/apache/maven-pmd-plugin/pull/732
 * maven-pmd-plugin - Warnings about deprecated rules with PMD 7.27.0 - ISSUE: https://github.com/apache/maven-pmd-plugin/issues/733 - PR: None
