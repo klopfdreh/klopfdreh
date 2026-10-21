@@ -87,6 +87,7 @@ https://gist.github.com/klopfdreh
 * Apache Wicket 10 with Spring Boot 4 native compiled with GraalVM 25: https://github.com/klopfdreh/wicket-spring-boot-native-demo
 
 ## Recent (OpenSource-) Achievements or Issues
+* reactor-netty - Fix Http3 not require Quic to be in classpath - ISSUE: NONE - PR: https://github.com/reactor/reactor-netty/pull/4442
 * maven-pmd-plugin - Update plugins in integration tests - ISSUE: None - PR: https://github.com/apache/maven-pmd-plugin/pull/732
 * maven-pmd-plugin - Warnings about deprecated rules with PMD 7.27.0 - ISSUE: https://github.com/apache/maven-pmd-plugin/issues/733 - PR: None
 * GraalVM native-build-tools native-maven-plugin - native-maven-plugin requires layer configuration - ISSUE: https://github.com/graalvm/native-build-tools/issues/1031 - PR: https://github.com/graalvm/native-build-tools/pull/1032 (suggestion, follow up PR was created)
